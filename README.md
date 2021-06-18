@@ -26,4 +26,4 @@ The next step is to modify the Info.plist. I would recommend selecting "Open As"
 
 ![alt text](https://cdn-images-1.medium.com/max/800/1*bKw8cJgeg_8pmBndhv-ULg.png) 
 
-[Read more....](https://medium.com/@parth.gohel/icloud-document-storage-d338cf745076)
+Read brief article on [Medium](https://medium.com/@parth.gohel/icloud-document-storage-d338cf745076)
